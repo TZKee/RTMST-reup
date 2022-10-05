@@ -40,3 +40,6 @@ Server-ul media ales este Server-ul Ant Media
 Aceasta transformă output-ul celorlalte două componente în așa fel încât să prezinte
 detectarea feței, a vârstei aproximative și a genului persoanelor din mediul
 monitorizat.
+
+
+![Screenshot 2022-10-05 164114](https://user-images.githubusercontent.com/79206962/194075336-79eab49f-1b9b-4b56-ab57-3f7451b79465.png)
