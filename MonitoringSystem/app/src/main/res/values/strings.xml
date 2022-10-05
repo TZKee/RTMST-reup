@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Android Monitoring System App</string>
+
+    <string name="tv_select">Select your streamer</string>
+
+    <string name="start_button">Start stream</string>
+    <string name="stop_button">Stop stream</string>
+    <string name="switch_camera_button">Switch camera</string>
+    <string name="start_record">Start record</string>
+    <string name="stop_record">Stop record</string>
+
+    <string name="hint_rtmp">rtmp://yourendpoint/key</string>
+
+    <string name="basic_rtmp_activity">Simple Monitoring Streamer</string>
+    <string name="faceDet_rtmp_activity">Face Detection Monitoring Streamer</string>
+    <string name="childMon_rtmp_activity">Child Monitoring Streamer</string>
+</resources>
